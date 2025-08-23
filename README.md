@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Saikat Chakraborty
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+at+KIIT University;Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+at+KIIT+University;Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
